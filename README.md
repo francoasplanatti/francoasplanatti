@@ -91,7 +91,7 @@
 	</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/francoasplanatti/" rel="nofollow">
-  		<img alt="Franco Asplanatti's LinkedIn" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt="Franco Asplanatti's LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" style="max-width: 100%;">
 	</a>
 </div>
 </p>
