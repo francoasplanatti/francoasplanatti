@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Franco+Asplanatti!;I+love+coding.;I+work+in+Data+Science.;Keen+on+Machine+Learning.;Reach+me+out!;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Franco+Asplanatti!;I+love+coding.;I+work+in+Data+Science.;I+work+in+Full+Stack+Development.;Keen+on+Machine+Learning.;Reach+me+out!;&center=true&width=500&height=50"></a>
 </p>
 
 <!-- Skills -->
